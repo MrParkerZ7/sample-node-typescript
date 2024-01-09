@@ -6,7 +6,7 @@
     "skipLibCheck": true,
     "importHelpers": true,
     "module": "commonjs",
-    "outDir": "lib",  // Set the output directory to "lib"
+    "outDir": "lib",
     "rootDir": "src",
     "target": "ES2022",
     "resolveJsonModule": true,
